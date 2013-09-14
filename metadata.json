@@ -1,0 +1,8 @@
+{
+    "shell-version": ["3.6.2", "3.7", "3.8"], 
+    "uuid": "clutter_clock@six600110.pobox.com", 
+    "name": "clutter-clock", 
+    "original-author": "Daniel Sheeeler",
+    "url": "http://six600110.com", 
+    "description": "clutter-clock: big, nice-looking digital clock on the desktop"
+}
